@@ -1,0 +1,1 @@
+This program implements the Sieve of Eratosthenes by listing all the prime numbers and divisors from 1 to 100.
